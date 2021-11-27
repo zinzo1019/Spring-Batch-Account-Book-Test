@@ -17,6 +17,6 @@
 4. HelloSpringBatchApplication 실행 (메인 코드 실행) -> 오류 없이 진행되면 성공 -> 1번 테스트
 5. main > hellospringbatch > configuration > JobConfiguration 클래스 안에 @Configuration 어노테이션 주석 처리
 6. main > hellospringbatch > configuration > JobConfiguration2 클래스 안에 @Configuration 어노테이션 주석 풀고 다시 메인 코드 실행 -> 2번 테스트
-7. 다시 어노테이션 주석 처러ㅣ
+7. 다시 어노테이션 주석 처리
 8. main > hellospringbatch > configuration > JobConfiguration3 클래스 안에 @Configuration 어노테이션 주석 풀고 다시 메인 코드 실행 -> 3번 테스트
 
